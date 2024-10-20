@@ -1,0 +1,3 @@
+﻿  Main.c
+C:\Users\shaoe\OneDrive\桌面\Programming-Languages-Homework-2\3.20\3.20\Main.c(9,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\shaoe\OneDrive\桌面\Programming-Languages-Homework-2\3.20\3.20\Main.c(16,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
